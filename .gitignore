@@ -1,0 +1,12 @@
+# Secrets and Environment Variables
+.env
+.streamlit/
+*.json 
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
